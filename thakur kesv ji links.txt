@@ -1,0 +1,7 @@
+https://www.electronicscuriosities.com/2020/10/ultrasonic-sensor-with-arduino-uno-with.html
+https://en.wikibooks.org/wiki/Serial_Programming/Modems_and_AT_Commands
+https://forum.arduino.cc/t/relay-for-1hp-water-pump/656578
+https://forum.arduino.cc/t/confused-while-choosing-components-for-a-ac-water-pump-controller/627953
+https://forum.arduino.cc/t/hc-sr04-gives-max-range-of-60-cm/119832
+https://itp.nyu.edu/physcomp/lessons/electronics/transistors-relays-and-controlling-high-current-loads/
+https://www.google.com/search?q=schneider+smart+mcb+for+arduino&tbm=isch&ved=2ahUKEwjp2vzjzvH0AhV-gGMGHQPiC5UQ2-cCegQIABAA&oq=schneider+smart+mcb+for+arduino&gs_lcp=CgNpbWcQAzoFCAAQgAQ6BAgAEB5QigZY2RJg_RVoAHAAeACAAXKIAaMIkgEEMTIuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=jBDAYenkC_6AjuMPg8SvqAk&rlz=1C1GCEU_enIN888IN888
